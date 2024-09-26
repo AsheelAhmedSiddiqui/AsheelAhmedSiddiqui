@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web Developemts Projects**
 
-- 💬 Ask me about **HTML, CSS, JS, code problems**
+- 💬 Ask me about **HTML, CSS, JS, React.js, Next.js  code problems**
 
 - 📫 How to reach me **asheelahmedsiddiqui@gmail.com**
 
