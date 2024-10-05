@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asheel Ahmed Siddiqui</h1>
 <h3 align="center">Coding Dreams into Reality: My Journey in Web Development</h3>
-<img align="right" alt="coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif">
+<img align="right" alt="coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asheelahmedsiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="asheelahmedsiddiqui" /> </p>
 
